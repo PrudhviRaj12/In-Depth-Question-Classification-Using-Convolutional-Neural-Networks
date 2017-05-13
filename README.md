@@ -1,6 +1,6 @@
-In-depth Question Classification using Convolutional Neural Networks <br>
+<p align = 'center'>In-depth Question Classification using Convolutional Neural Networks <br>
 Prudhvi Raj Dachapally and Srikanth Ramanam <br>
-Code Execution Instructions <br>
+Code Execution Instructions <br></p>
 
 1. Data Separation
 
