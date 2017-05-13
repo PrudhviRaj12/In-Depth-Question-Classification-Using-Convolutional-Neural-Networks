@@ -1,0 +1,115 @@
+LOC:other What are the most surreal places to visit?
+LOC:other Where can I get free online course about blogging?
+LOC:other Where's the quietest place in the world?
+DESC:reason Why am I still single at 25?
+DESC:reason  What are the top ten reasons why someone should not date you?
+ENTY:other  What is the best gift that somebody has ever received?
+NUM:date  When did language originate?
+ENTY:substance What does honey consist of?
+ENTY:animal  What is the smallest mammal?
+DESC:def What is astrology?
+DESC:manner  How do I avoid an awkward situation after a break up?
+ENTY:other  What are the best movies of all time?
+ENTY:other  What is the longest movie ever made?
+LOC:other  Where are most movies shot?
+ENTY:veh  Which cars are considered status symbols in the hi-tech era?
+HUM:ind  Who is the wisest character in Harry Potter?
+DESC:reason  Why did Wolverine healing power stop working in "Logan"?
+DESC:desc  What is it like working with Christopher Nolan?
+NUM:money  How much did Titanic earn at box office?
+ENTY:event  What are the darkest moments in Marvel and DC?
+HUM:ind  Who is the most underrated character in Harry Potter?
+NUM:date  When has Batman been defeated?
+DESC:other  Would Batman be an average man if he was not born rich?
+ENTY:other  What is your favorite Greek myth?
+ENTY:lang  Which language is the most similar to English?
+ENTY:other  What is the most useless job you can think of?
+DESC:desc  Which college is best for English Literature: University College London or Kings College London?
+DESC:desc  What is the difference between pick and choose?
+ENTY:event  What are some of the best moments of tragedy in english literature?
+HUM:ind  Who is the smartest human being that's ever lived?
+DESC:reason  In ancient times, why were soldiers predominantly men?
+ENTY:other  What is the most effective weapon of war?
+ENTY:event  What is the most impactful event in the history of war?
+ENTY:other  What were the greatest bluffs ever made in history?
+DESC:reason  Why did Russia sell Alaska to the USA?
+DESC:reason  Why didn't Japan invade Hawaii instead of attacking Pearl Harbor?
+DESC:manner  How do African-Americans feel about the US destroying their booming communities in the 1980s?
+DESC:desc  What if Japan had never surrendered during WWII?
+DESC:def  What is the meaning of zephyretta?
+LOC:country  Which country would win a war between the Philippines and Vietnam?
+ENTY:event  What is your country's armed forces funniest fail?
+DESC:reason  Why is Columbus Day offensive to Native Americans?
+NUM:date  When was the iPad 2 released?
+DESC:reason  Why was it important for the Apollo missions to have moon buggies?
+DESC:reason  What makes the center of ice cubes white?
+DESC:reason  Why has Montreal become a haven for artificial intelligence research and laboratories?
+NUM:date  When was Lara Croft born?
+ENTY:techmeth  What are some good Python tasks for a beginner of big data analysis?
+DESC:reason  Why is America afraid to attack North Korea?
+ENTY:sport  Which sport is the most dangerous for its spectators?
+DESC:manner  How can I dramatically improve my life in 2 years?
+DESC:manner  Why do so many foreigners go to China and think China is good?
+DESC:reason  Why do some people succeed in life and others do not?
+ENTY:other  What are the prerequisites for understanding algorithmic probability theory?
+ENTY:animal  Which animal has the longest skull ever?
+ENTY:other  What are some good dashboard templates for AngularJS 2?
+LOC:other  Where is the best cheesesteak sandwich in Philadelphia?
+DESC:manner  How does Buffett correctly calculate intrinsic value?
+ENTY:animal What is a good office pet?
+NUM:other  What is the amount of data that MySQL and SQL databases can handle?
+DESC:manner  How do I construct and train Convolutional Neural Networks in MATLAB for ECG signal classification problem?
+DESC:desc  What is the typical architecture of an AI chatbot?
+LOC:country  Which country has the darkest history?
+DESC:manner  How has the Democratic Party changed in the last century?
+DESC:reason Why didn't any Ivy Leagues accept me?
+NUM:money What is the salary for an intern at Uber in summer 2015?
+ENTY:other  What benefits can I get from Quora as a young CEO or entrepreneur?
+ENTY:food  What is the most popular dish served at Chinese weddings?
+DESC:reason  Why does Pakistan always have war superiority over India in spite of being a much smaller country?
+DESC:reason  Why is the Bayesian Inference controversial?
+NUM:period  How long does Twitter keep tweets?
+DESC:desc  What would happen if Liechtenstein tried to conquer China?
+ENTY:sport  Which sport will help to reduce weight faster?
+DESC:manner  How do I become a more interesting person?
+DESC:manner  At the lowest level, how are random numbers generating in computing?
+ENTY:other  What is the most unpopular political opinion you have?
+DESC:reason  Why doesnt the United States let Iran have nuclear weapons?
+DESC:manner  What is the housing for diplomats like?
+NUM:count  How many users does Spotify have?
+LOC:country  What two countries hate each other the most?
+DESC:reason  What would you do if a foreign power occupied the United States?
+DESC:reason  Why is it so hard for educated liberals to empathize with Trump supporters?
+DESC:reason  Why does Erdogan not embrace some type of decentralization in Turkey?
+ENTY:other  What is the best negative review of a movie you've ever read?
+NUM:period At what age can I start taking online college courses?
+DESC:reason  Why can't Hollywood produce a movie where the villain wins in the end?
+ENTY:event  What are some common illogical scenes that occur in films?
+ENTY:other  What are the movie bloopers that were too good to cut?
+NUM:period  What was the average lifespan of a dinosaur?
+ENTY:other  What do you have in your refrigerator that most people do not?
+ENTY:food  If you were on death row, what would you request for your last meal?
+ENTY:other  What is the one thing that I can start doing today that will promise a greater life for me in the future?
+DESC:manner  What is it like to live on a small island?
+DESC:manner  How can I keep the habit of reading everyday?
+ENTY:other  What ten books would you recommend for an adult who wants to start trying to live a successful life?
+ENTY:other  Which line in the Harry Potter series touched you the most?
+ABBR:abbr  What does ICE stand for?
+ABBR:exp  What does P.S. stand for?
+ABBR:abbr  What is the full form of DTP?
+DESC:def   What is JIT?
+DESC:reason Why do people use OK instead of Okay?
+HUM:ind  Which Marvel villain is as iconic as DC Joker?
+ENTY:event  What is Batman biggest badass moment ever?
+HUM:ind  Who is the most influential black superhero?
+DESC:manner  How would Superman react if Batman died?
+DESC:reason  Why does DC comics focus so much on the power of their characters?
+HUM:ind  Who is the most powerful villian in comics?
+ENTY:event What are the most fascinating stories of nations who went from poor to rich?
+DESC:reason  Why do poor people deserve welfare benefits?
+DESC:reason  Why does NASA use crappy cameras on their probes?
+NUM:date  When did we first see Earth from Space?
+NUM:period  What is the time period of a seconds pendulum at the surface of the moon?
+NUM:date  When is Spotify coming to Singapore?
+ENTY:product  What is the best camera for making videos?
+ENTY:termeq  What are fried eggs called in various languages, and what does the expression literally mean?
