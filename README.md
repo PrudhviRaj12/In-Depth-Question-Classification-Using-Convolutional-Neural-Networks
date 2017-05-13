@@ -1,0 +1,2 @@
+# In-Depth-Question-Classification-Using-Convolutional-Neural-Networks
+In this project, we develop a question classifier that used the UIUC's question classification data set to train a convolutional neutral network to classify among 50 classes. With our model, we were able to achieve results that are on par with the current methods on the primary categories, while for the secondary categories, our model outperformed the state-of-the-art results for this data set.
