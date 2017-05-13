@@ -1,6 +1,6 @@
 <p align = 'center'> <b>In-depth Question Classification using Convolutional Neural Networks <br>
 Prudhvi Raj Dachapally and Srikanth Ramanam <br>
-Code Execution Instructions <br><b></p>
+Code Execution Instructions <br></b></p>
 
 1. Data Separation
 
