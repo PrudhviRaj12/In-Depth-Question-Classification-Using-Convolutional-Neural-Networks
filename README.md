@@ -1,6 +1,6 @@
-In-depth Question Classification using Convolutional Neural Networks
-Prudhvi Raj Dachapally and Srikanth Ramanam
-Code Execution Instructions
+In-depth Question Classification using Convolutional Neural Networks <br>
+Prudhvi Raj Dachapally and Srikanth Ramanam <br>
+Code Execution Instructions <br>
 
 1. Data Separation
 
@@ -32,6 +32,7 @@ This program again takes three arguments.
 	Argument 3: Train (or) Test sub-folder (sub_categories/ for train, sub_categories_test/ for test)
 
 	Example: python sub_cate_sep_test.py train_5500.txt abbr sub_categories/
+	
 The above example groups the subclasses of abbreviation class into different files.
 
 2. Training the Convolution Neural Network.
@@ -105,9 +106,9 @@ This above execution trains the CNN model on sub categories of location using pr
 
 3. Testing Pre-Trained Models:
 	
-	To download the pre-trained models, please go to this link. (https://iu.box.com/s/1xgmvoa0cj6fsnm4btsybziw3hv5qqxq)
-
-We provide two datasets for testing. UIUC’ TREC 500 data set and 115 questions Quora data set. 
+	To download the pre-trained models, please go to this link. (Will be updated)
+	
+We provide two datasets for testing. UIUC’s TREC 500 data set and 115 questions Quora data set. 
 
 The entire pre-trained set is upto 200 MB, which should be downloaded.
 
